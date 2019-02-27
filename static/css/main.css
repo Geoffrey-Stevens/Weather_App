@@ -1,0 +1,28 @@
+.extra-margin-lg{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+H2{
+  text-align: center;
+}
+
+
+form>input[type="Submit"]{
+  width: 100%;
+  margin-top: 20px;
+}
+
+.card{
+  margin-top: 25px;
+
+}
+.card-title{
+  font-weight:bold;
+  font-size: 30px;
+  padding: 10px 15px;
+}
+.card-text{
+  font-soze: 22px;
+  padding: 20px;
+
+}
